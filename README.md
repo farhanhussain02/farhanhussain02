@@ -56,91 +56,73 @@ I'm Md Farhan Hussain, a BCA student passionate about cybersecurity, ethical hac
 
 
 
-<h2 align="center">
-  <code>./MISSION_CONTROL</code>
-</h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ACTIVE-00FF41?style=for-the-badge&labelColor=050505"/>
-  <img src="https://img.shields.io/badge/DOMAIN-CYBERSECURITY-00FF41?style=for-the-badge&labelColor=050505"/>
-</p>
-
-<p align="center">
-  <code>root@farhan:~/security-projects$ ls -la</code>
-</p>
+<h2 align="center">Featured Projects</h2>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3>🛡️ LIGHTNING GUARD</h3>
-<img src="https://img.shields.io/badge/01-AI_SECURITY-00FF41?style=flat-square&labelColor=080808"/>
+### 01. Lightning Guard
 
-AI-powered misinformation analysis and reporting platform.
+AI-powered misinformation detection and reporting platform.
 
 `React` `Node.js` `Gemini AI`
 
-<a href="https://github.com/farhanhussain02/Lightning-Guard-Prototype">↗ EXPLORE REPOSITORY</a>
+[View Repository →](https://github.com/farhanhussain02/Lightning-Guard-Prototype)
 
 </td>
 <td width="50%" valign="top">
 
-<h3>📡 NETWORK SCANNER</h3>
-<img src="https://img.shields.io/badge/02-RECONNAISSANCE-00FF41?style=flat-square&labelColor=080808"/>
+### 02. Network Scanner
 
 Network discovery, port scanning and service enumeration.
 
 `Nmap` `Linux` `Networking`
 
-<a href="https://github.com/farhanhussain02/task1-networkscan">↗ EXPLORE REPOSITORY</a>
+[View Repository →](https://github.com/farhanhussain02/task1-networkscan)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<h3>🎣 PHISHING ANALYSIS</h3>
-<img src="https://img.shields.io/badge/03-THREAT_INTEL-00FF41?style=flat-square&labelColor=080808"/>
+### 03. Phishing Email Analysis
 
-Phishing email investigation and suspicious indicator analysis.
+Email investigation and phishing indicator identification.
 
 `Email Security` `Analysis`
 
-<a href="https://github.com/farhanhussain02/task2-phishing-email-analysis">↗ EXPLORE REPOSITORY</a>
+[View Repository →](https://github.com/farhanhussain02/task2-phishing-email-analysis)
 
 </td>
 <td width="50%" valign="top">
 
-<h3>🔍 NESSUS ASSESSMENT</h3>
-<img src="https://img.shields.io/badge/04-VULNERABILITY-00FF41?style=flat-square&labelColor=080808"/>
+### 04. Nessus Vulnerability Assessment
 
-Vulnerability scanning, assessment and remediation.
+Vulnerability scanning and security assessment.
 
-`Nessus` `Security Testing`
+`Nessus` `Vulnerability Assessment`
 
-<a href="https://github.com/farhanhussain02/task3-nessus-vulnerability-scan">↗ EXPLORE REPOSITORY</a>
+[View Repository →](https://github.com/farhanhussain02/task3-nessus-vulnerability-scan)
 
 </td>
 </tr>
 <tr>
 <td colspan="2">
 
-<h3>📊 WIRESHARK NETWORK ANALYSIS</h3>
-<img src="https://img.shields.io/badge/05-NETWORK_FORENSICS-00FF41?style=flat-square&labelColor=080808"/>
+### 05. Wireshark Network Analysis
 
-Packet capture, protocol inspection and network traffic investigation.
+Packet inspection, protocol analysis and traffic investigation.
 
-`Wireshark` `Packet Analysis` `Networking`
+`Wireshark` `Network Security`
 
-<a href="https://github.com/farhanhussain02/task5-wireshark-analysis">↗ EXPLORE REPOSITORY</a>
+[View Repository →](https://github.com/farhanhussain02/task5-wireshark-analysis)
 
 </td>
 </tr>
 </table>
 
-<p align="center">
-  <code>Stay curious. Stay ethical. Stay secure.</code>
-</p>
 
 ### Cybersecurity Labs
 Hands-on security learning and practical exercises.
