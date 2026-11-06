@@ -55,63 +55,105 @@ I'm Md Farhan Hussain, a BCA student passionate about cybersecurity, ethical hac
 ## `Featured Projects`
 
 
-<h2 align="center">⚡ Featured Security Projects</h2>
-<p align="center">Hands-on projects • Security research • Practical development</p>
+
+<h2 align="center">⚡ Featured Projects</h2>
+<p align="center">
+  <code>root@farhan:~/projects$ ./list_all</code>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PROJECTS-05-00FF41?style=for-the-badge&labelColor=080808"/>
+  <img src="https://img.shields.io/badge/DOMAIN-CYBERSECURITY-00FF41?style=for-the-badge&labelColor=080808"/>
+</p>
 
 <table>
 <tr>
-<td width="50%">
-<h3>🛡️ Lightning Guard</h3>
-AI-powered misinformation analysis platform.
-<br/><br/>
+<td width="50%" valign="top">
+
+<h3>🛡️ 01. LIGHTNING GUARD</h3>
+<b>AI SECURITY / THREAT ANALYSIS</b>
+
+AI-powered misinformation analysis and reporting platform.
+
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs"/>
 <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square"/>
-<br/><br/>
-<a href="https://github.com/farhanhussain02/Lightning-Guard-Prototype">↗ View Project</a>
+
+<a href="https://github.com/farhanhussain02/Lightning-Guard-Prototype">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-00FF41?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
 </td>
-<td width="50%">
-<h3>📡 Network Scanner</h3>
-Network discovery and port scanning.
-<br/><br/>
+<td width="50%" valign="top">
+
+<h3>📡 02. NETWORK SCANNER</h3>
+<b>RECONNAISSANCE / NETWORK SECURITY</b>
+
+Host discovery, port scanning and service enumeration.
+
 <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square"/>
-<img src="https://img.shields.io/badge/Networking-00A86B?style=flat-square"/>
-<br/><br/>
-<a href="https://github.com/farhanhussain02/task1-networkscan">↗ View Project</a>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+
+<a href="https://github.com/farhanhussain02/task1-networkscan">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-00FF41?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
 </td>
 </tr>
 <tr>
-<td width="50%">
-<h3>🎣 Phishing Analysis</h3>
-Phishing email investigation and analysis.
-<br/><br/>
+<td width="50%" valign="top">
+
+<h3>🎣 03. PHISHING ANALYSIS</h3>
+<b>EMAIL SECURITY / THREAT INTELLIGENCE</b>
+
+Phishing indicators, suspicious links and email investigation.
+
 <img src="https://img.shields.io/badge/Email_Security-FF6633?style=flat-square"/>
 <img src="https://img.shields.io/badge/Analysis-00A86B?style=flat-square"/>
-<br/><br/>
-<a href="https://github.com/farhanhussain02/task2-phishing-email-analysis">↗ View Project</a>
+
+<a href="https://github.com/farhanhussain02/task2-phishing-email-analysis">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-00FF41?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
 </td>
-<td width="50%">
-<h3>🔍 Nessus Assessment</h3>
-Vulnerability scanning and assessment.
-<br/><br/>
+<td width="50%" valign="top">
+
+<h3>🔍 04. NESSUS ASSESSMENT</h3>
+<b>VULNERABILITY / RISK ASSESSMENT</b>
+
+Vulnerability scanning, findings and remediation recommendations.
+
 <img src="https://img.shields.io/badge/Nessus-00AEEF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Vulnerability_Assessment-00A86B?style=flat-square"/>
-<br/><br/>
-<a href="https://github.com/farhanhussain02/task3-nessus-vulnerability-scan">↗ View Project</a>
+<img src="https://img.shields.io/badge/Security-00A86B?style=flat-square"/>
+
+<a href="https://github.com/farhanhussain02/task3-nessus-vulnerability-scan">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-00FF41?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
 </td>
 </tr>
 <tr>
-<td colspan="2">
-<h3>📊 Wireshark Network Analysis</h3>
-Packet capture, protocol inspection and network traffic analysis.
-<br/><br/>
+<td colspan="2" valign="top">
+
+<h3>📊 05. WIRESHARK TRAFFIC ANALYSIS</h3>
+<b>NETWORK FORENSICS / PACKET INSPECTION</b>
+
+Network traffic investigation, packet capture and protocol analysis.
+
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Network_Analysis-00A86B?style=flat-square"/>
-<br/><br/>
-<a href="https://github.com/farhanhussain02/task5-wireshark-analysis">↗ View Project</a>
+<img src="https://img.shields.io/badge/Packet_Analysis-00A86B?style=flat-square"/>
+
+<a href="https://github.com/farhanhussain02/task5-wireshark-analysis">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-00FF41?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
 </td>
 </tr>
 </table>
+
+<p align="center">
+  <code>Stay curious. Stay ethical. Stay secure.</code>
+</p>
 
 ### Cybersecurity Labs
 Hands-on security learning and practical exercises.
