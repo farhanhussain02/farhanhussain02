@@ -55,60 +55,63 @@ I'm Md Farhan Hussain, a BCA student passionate about cybersecurity, ethical hac
 ## `Featured Projects`
 
 
-### 01. Lightning Guard
-**AI-Powered Misinformation Detection & Reporting Platform**
+<h2 align="center">⚡ Featured Security Projects</h2>
+<p align="center">Hands-on projects • Security research • Practical development</p>
 
-- AI-based threat and misinformation analysis.
-- Google Gemini API integration.
-- React, Tailwind CSS and Node.js.
-- Threat classification and security recommendations.
-
-[View Repository](https://github.com/farhanhussain02/Lightning-Guard-Prototype)
-
----
-
-### 02. Network Scanning & Reconnaissance
-**Network Discovery and Port Scanning**
-
-- Network host discovery.
-- Open port identification.
-- Service enumeration using Nmap.
-
-[View Repository](https://github.com/farhanhussain02/task1-networkscan)
-
----
-
-### 03. Phishing Email Analysis
-**Email Security Investigation**
-
-- Identification of phishing indicators.
-- Suspicious sender and link analysis.
-- Email security awareness.
-
-[View Repository](https://github.com/farhanhussain02/task2-phishing-email-analysis)
-
----
-
-### 04. Nessus Vulnerability Assessment
-**Security Vulnerability Scanning**
-
-- Vulnerability identification.
-- Nessus Essentials scanning.
-- Risk assessment and remediation recommendations.
-
-[View Repository](https://github.com/farhanhussain02/task3-nessus-vulnerability-scan)
-
----
-
-### 05. Wireshark Network Analysis
-**Network Traffic Investigation**
-
-- Packet capture and inspection.
-- Protocol analysis.
-- Network traffic investigation.
-
-[View Repository](https://github.com/farhanhussain02/task5-wireshark-analysis)
-
+<table>
+<tr>
+<td width="50%">
+<h3>🛡️ Lightning Guard</h3>
+AI-powered misinformation analysis platform.
+<br/><br/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square"/>
+<br/><br/>
+<a href="https://github.com/farhanhussain02/Lightning-Guard-Prototype">↗ View Project</a>
+</td>
+<td width="50%">
+<h3>📡 Network Scanner</h3>
+Network discovery and port scanning.
+<br/><br/>
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square"/>
+<img src="https://img.shields.io/badge/Networking-00A86B?style=flat-square"/>
+<br/><br/>
+<a href="https://github.com/farhanhussain02/task1-networkscan">↗ View Project</a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3>🎣 Phishing Analysis</h3>
+Phishing email investigation and analysis.
+<br/><br/>
+<img src="https://img.shields.io/badge/Email_Security-FF6633?style=flat-square"/>
+<img src="https://img.shields.io/badge/Analysis-00A86B?style=flat-square"/>
+<br/><br/>
+<a href="https://github.com/farhanhussain02/task2-phishing-email-analysis">↗ View Project</a>
+</td>
+<td width="50%">
+<h3>🔍 Nessus Assessment</h3>
+Vulnerability scanning and assessment.
+<br/><br/>
+<img src="https://img.shields.io/badge/Nessus-00AEEF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Vulnerability_Assessment-00A86B?style=flat-square"/>
+<br/><br/>
+<a href="https://github.com/farhanhussain02/task3-nessus-vulnerability-scan">↗ View Project</a>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<h3>📊 Wireshark Network Analysis</h3>
+Packet capture, protocol inspection and network traffic analysis.
+<br/><br/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Network_Analysis-00A86B?style=flat-square"/>
+<br/><br/>
+<a href="https://github.com/farhanhussain02/task5-wireshark-analysis">↗ View Project</a>
+</td>
+</tr>
+</table>
 
 ### Cybersecurity Labs
 Hands-on security learning and practical exercises.
