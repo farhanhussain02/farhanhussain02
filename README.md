@@ -1,7 +1,6 @@
 
 <div align="center">
 
-# `root@farhanhussain02:~$`
 
 ### Md Farhan Hussain | Cybersecurity Enthusiast
 
@@ -79,10 +78,10 @@ Hands-on security learning and practical exercises.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ReconNinja7&show_icons=true&theme=chartreuse-dark&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReconNinja7&layout=compact&theme=chartreuse-dark&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=farhanhussain02&show_icons=true&theme=chartreuse-dark&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanhussain02&layout=compact&theme=chartreuse-dark&hide_border=true" width="48%" />
 
-<img src="https://streak-stats.demolab.com?user=ReconNinja7&theme=chartreuse-dark&hide_border=true" width="70%" />
+<img src="https://streak-stats.demolab.com?user=farhanhussain02&theme=chartreuse-dark&hide_border=true" width="70%" />
 
 </div>
 
