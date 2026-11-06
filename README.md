@@ -74,17 +74,6 @@ Hands-on security learning and practical exercises.
 - Security Operations (SOC)
 - Python for Cybersecurity
 
-## `github_activity`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=farhanhussain02&show_icons=true&theme=chartreuse-dark&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanhussain02&layout=compact&theme=chartreuse-dark&hide_border=true" width="48%" />
-
-<img src="https://streak-stats.demolab.com?user=farhanhussain02&theme=chartreuse-dark&hide_border=true" width="70%" />
-
-</div>
-
 ---
 
 <div align="center">
