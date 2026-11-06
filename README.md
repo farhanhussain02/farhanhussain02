@@ -60,103 +60,71 @@ I'm Md Farhan Hussain, a BCA student passionate about cybersecurity, ethical hac
 
 
 <h2 align="center"></h2>
-<p align="center">
-  <code>root@farhan:~/projects$ ./list_all</code>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PROJECTS-05-00FF41?style=for-the-badge&labelColor=080808"/>
-  <img src="https://img.shields.io/badge/DOMAIN-CYBERSECURITY-00FF41?style=for-the-badge&labelColor=080808"/>
-</p>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3>🛡️ 01. LIGHTNING GUARD</h3>
-<b>AI SECURITY / THREAT ANALYSIS</b>
+### 01. Lightning Guard
 
-AI-powered misinformation analysis and reporting platform.
+AI-powered misinformation detection and reporting platform.
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs"/>
-<img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square"/>
+`React` `Node.js` `Gemini AI`
 
-<a href="https://github.com/farhanhussain02/Lightning-Guard-Prototype">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECT-00FF41?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
+[View Repository →](https://github.com/farhanhussain02/Lightning-Guard-Prototype)
 
 </td>
 <td width="50%" valign="top">
 
-<h3>📡 02. NETWORK SCANNER</h3>
-<b>RECONNAISSANCE / NETWORK SECURITY</b>
+### 02. Network Scanner
 
-Host discovery, port scanning and service enumeration.
+Network discovery, port scanning and service enumeration.
 
-<img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+`Nmap` `Linux` `Networking`
 
-<a href="https://github.com/farhanhussain02/task1-networkscan">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECT-00FF41?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
+[View Repository →](https://github.com/farhanhussain02/task1-networkscan)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<h3>🎣 03. PHISHING ANALYSIS</h3>
-<b>EMAIL SECURITY / THREAT INTELLIGENCE</b>
+### 03. Phishing Email Analysis
 
-Phishing indicators, suspicious links and email investigation.
+Email investigation and phishing indicator identification.
 
-<img src="https://img.shields.io/badge/Email_Security-FF6633?style=flat-square"/>
-<img src="https://img.shields.io/badge/Analysis-00A86B?style=flat-square"/>
+`Email Security` `Analysis`
 
-<a href="https://github.com/farhanhussain02/task2-phishing-email-analysis">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECT-00FF41?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
+[View Repository →](https://github.com/farhanhussain02/task2-phishing-email-analysis)
 
 </td>
 <td width="50%" valign="top">
 
-<h3>🔍 04. NESSUS ASSESSMENT</h3>
-<b>VULNERABILITY / RISK ASSESSMENT</b>
+### 04. Nessus Vulnerability Assessment
 
-Vulnerability scanning, findings and remediation recommendations.
+Vulnerability scanning and security assessment.
 
-<img src="https://img.shields.io/badge/Nessus-00AEEF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Security-00A86B?style=flat-square"/>
+`Nessus` `Vulnerability Assessment`
 
-<a href="https://github.com/farhanhussain02/task3-nessus-vulnerability-scan">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECT-00FF41?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
+[View Repository →](https://github.com/farhanhussain02/task3-nessus-vulnerability-scan)
 
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td colspan="2">
 
-<h3>📊 05. WIRESHARK TRAFFIC ANALYSIS</h3>
-<b>NETWORK FORENSICS / PACKET INSPECTION</b>
+### 05. Wireshark Network Analysis
 
-Network traffic investigation, packet capture and protocol analysis.
+Packet inspection, protocol analysis and traffic investigation.
 
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Packet_Analysis-00A86B?style=flat-square"/>
+`Wireshark` `Network Security`
 
-<a href="https://github.com/farhanhussain02/task5-wireshark-analysis">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECT-00FF41?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
+[View Repository →](https://github.com/farhanhussain02/task5-wireshark-analysis)
 
 </td>
 </tr>
 </table>
 
-<p align="center">
-  <code>Stay curious. Stay ethical. Stay secure.</code>
-</p>
 
 
 ### Cybersecurity Labs
