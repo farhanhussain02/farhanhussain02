@@ -3,6 +3,15 @@
 </div>
 <div align="center">
 
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-FarhanHussain02-181717?style=for-the-badge&logo=github)](https://github.com/farhanhussain02)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/farhanhussain02)
+
+</div>
+
+
 
 ### Md Farhan Hussain | Cybersecurity Enthusiast
 
