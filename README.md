@@ -29,7 +29,7 @@ I'm Md Farhan Hussain, a BCA student passionate about cybersecurity, ethical hac
 
 **Objective:** Turn practical cybersecurity knowledge into real-world security solutions.
 
-## `tech_stack`
+## `Tech Stack`
 
 ### Security Tools
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
@@ -52,7 +52,7 @@ I'm Md Farhan Hussain, a BCA student passionate about cybersecurity, ethical hac
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-## `featured_projects`
+## `Featured Projects`
 
 ### Lightning Guard
 AI-powered misinformation analysis and reporting platform.
@@ -71,7 +71,7 @@ Hands-on security learning and practical exercises.
 - Vulnerability assessment
 - Network traffic analysis
 
-## `current_focus`
+## `Current Focus`
 
 - Network Security
 - Vulnerability Assessment
