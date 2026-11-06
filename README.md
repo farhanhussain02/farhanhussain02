@@ -56,96 +56,83 @@ I'm Md Farhan Hussain, a BCA student passionate about cybersecurity, ethical hac
 
 
 
-<h2 align="center">⚡ Featured Projects</h2>
+<h2 align="center">
+  <code>./MISSION_CONTROL</code>
+</h2>
+
 <p align="center">
-  <code>root@farhan:~/projects$ ./list_all</code>
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-00FF41?style=for-the-badge&labelColor=050505"/>
+  <img src="https://img.shields.io/badge/DOMAIN-CYBERSECURITY-00FF41?style=for-the-badge&labelColor=050505"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PROJECTS-05-00FF41?style=for-the-badge&labelColor=080808"/>
-  <img src="https://img.shields.io/badge/DOMAIN-CYBERSECURITY-00FF41?style=for-the-badge&labelColor=080808"/>
+  <code>root@farhan:~/security-projects$ ls -la</code>
 </p>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3>🛡️ 01. LIGHTNING GUARD</h3>
-<b>AI SECURITY / THREAT ANALYSIS</b>
+<h3>🛡️ LIGHTNING GUARD</h3>
+<img src="https://img.shields.io/badge/01-AI_SECURITY-00FF41?style=flat-square&labelColor=080808"/>
 
 AI-powered misinformation analysis and reporting platform.
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs"/>
-<img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square"/>
+`React` `Node.js` `Gemini AI`
 
-<a href="https://github.com/farhanhussain02/Lightning-Guard-Prototype">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECT-00FF41?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
+<a href="https://github.com/farhanhussain02/Lightning-Guard-Prototype">↗ EXPLORE REPOSITORY</a>
 
 </td>
 <td width="50%" valign="top">
 
-<h3>📡 02. NETWORK SCANNER</h3>
-<b>RECONNAISSANCE / NETWORK SECURITY</b>
+<h3>📡 NETWORK SCANNER</h3>
+<img src="https://img.shields.io/badge/02-RECONNAISSANCE-00FF41?style=flat-square&labelColor=080808"/>
 
-Host discovery, port scanning and service enumeration.
+Network discovery, port scanning and service enumeration.
 
-<img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+`Nmap` `Linux` `Networking`
 
-<a href="https://github.com/farhanhussain02/task1-networkscan">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECT-00FF41?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
+<a href="https://github.com/farhanhussain02/task1-networkscan">↗ EXPLORE REPOSITORY</a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<h3>🎣 03. PHISHING ANALYSIS</h3>
-<b>EMAIL SECURITY / THREAT INTELLIGENCE</b>
+<h3>🎣 PHISHING ANALYSIS</h3>
+<img src="https://img.shields.io/badge/03-THREAT_INTEL-00FF41?style=flat-square&labelColor=080808"/>
 
-Phishing indicators, suspicious links and email investigation.
+Phishing email investigation and suspicious indicator analysis.
 
-<img src="https://img.shields.io/badge/Email_Security-FF6633?style=flat-square"/>
-<img src="https://img.shields.io/badge/Analysis-00A86B?style=flat-square"/>
+`Email Security` `Analysis`
 
-<a href="https://github.com/farhanhussain02/task2-phishing-email-analysis">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECT-00FF41?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
+<a href="https://github.com/farhanhussain02/task2-phishing-email-analysis">↗ EXPLORE REPOSITORY</a>
 
 </td>
 <td width="50%" valign="top">
 
-<h3>🔍 04. NESSUS ASSESSMENT</h3>
-<b>VULNERABILITY / RISK ASSESSMENT</b>
+<h3>🔍 NESSUS ASSESSMENT</h3>
+<img src="https://img.shields.io/badge/04-VULNERABILITY-00FF41?style=flat-square&labelColor=080808"/>
 
-Vulnerability scanning, findings and remediation recommendations.
+Vulnerability scanning, assessment and remediation.
 
-<img src="https://img.shields.io/badge/Nessus-00AEEF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Security-00A86B?style=flat-square"/>
+`Nessus` `Security Testing`
 
-<a href="https://github.com/farhanhussain02/task3-nessus-vulnerability-scan">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECT-00FF41?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
+<a href="https://github.com/farhanhussain02/task3-nessus-vulnerability-scan">↗ EXPLORE REPOSITORY</a>
 
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td colspan="2">
 
-<h3>📊 05. WIRESHARK TRAFFIC ANALYSIS</h3>
-<b>NETWORK FORENSICS / PACKET INSPECTION</b>
+<h3>📊 WIRESHARK NETWORK ANALYSIS</h3>
+<img src="https://img.shields.io/badge/05-NETWORK_FORENSICS-00FF41?style=flat-square&labelColor=080808"/>
 
-Network traffic investigation, packet capture and protocol analysis.
+Packet capture, protocol inspection and network traffic investigation.
 
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Packet_Analysis-00A86B?style=flat-square"/>
+`Wireshark` `Packet Analysis` `Networking`
 
-<a href="https://github.com/farhanhussain02/task5-wireshark-analysis">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECT-00FF41?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
+<a href="https://github.com/farhanhussain02/task5-wireshark-analysis">↗ EXPLORE REPOSITORY</a>
 
 </td>
 </tr>
