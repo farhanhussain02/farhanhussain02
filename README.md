@@ -54,14 +54,61 @@ I'm Md Farhan Hussain, a BCA student passionate about cybersecurity, ethical hac
 
 ## `Featured Projects`
 
-### Lightning Guard
-AI-powered misinformation analysis and reporting platform.
 
-- React, Tailwind CSS and Node.js
-- Google Gemini AI integration
-- Threat analysis and information classification
+### 01. Lightning Guard
+**AI-Powered Misinformation Detection & Reporting Platform**
 
-[View Project](https://github.com/ReconNinja7/Lightning-Guard-Prototype)
+- AI-based threat and misinformation analysis.
+- Google Gemini API integration.
+- React, Tailwind CSS and Node.js.
+- Threat classification and security recommendations.
+
+[View Repository](https://github.com/farhanhussain02/Lightning-Guard-Prototype)
+
+---
+
+### 02. Network Scanning & Reconnaissance
+**Network Discovery and Port Scanning**
+
+- Network host discovery.
+- Open port identification.
+- Service enumeration using Nmap.
+
+[View Repository](https://github.com/farhanhussain02/task1-networkscan)
+
+---
+
+### 03. Phishing Email Analysis
+**Email Security Investigation**
+
+- Identification of phishing indicators.
+- Suspicious sender and link analysis.
+- Email security awareness.
+
+[View Repository](https://github.com/farhanhussain02/task2-phishing-email-analysis)
+
+---
+
+### 04. Nessus Vulnerability Assessment
+**Security Vulnerability Scanning**
+
+- Vulnerability identification.
+- Nessus Essentials scanning.
+- Risk assessment and remediation recommendations.
+
+[View Repository](https://github.com/farhanhussain02/task3-nessus-vulnerability-scan)
+
+---
+
+### 05. Wireshark Network Analysis
+**Network Traffic Investigation**
+
+- Packet capture and inspection.
+- Protocol analysis.
+- Network traffic investigation.
+
+[View Repository](https://github.com/farhanhussain02/task5-wireshark-analysis)
+
 
 ### Cybersecurity Labs
 Hands-on security learning and practical exercises.
