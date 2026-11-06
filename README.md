@@ -57,71 +57,36 @@ I'm Md Farhan Hussain, a BCA student passionate about cybersecurity, ethical hac
 
 
 
-<h2 align="center">Featured Projects</h2>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<h2 align="center">Technical Skills</h2>
 
-### 01. Lightning Guard
+<h3>Cybersecurity Tools</h3>
+<p>
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Nessus-00AEEF?style=for-the-badge"/>
+</p>
 
-AI-powered misinformation detection and reporting platform.
+<h3>Programming Languages</h3>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+</p>
 
-`React` `Node.js` `Gemini AI`
-
-[View Repository →](https://github.com/farhanhussain02/Lightning-Guard-Prototype)
-
-</td>
-<td width="50%" valign="top">
-
-### 02. Network Scanner
-
-Network discovery, port scanning and service enumeration.
-
-`Nmap` `Linux` `Networking`
-
-[View Repository →](https://github.com/farhanhussain02/task1-networkscan)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 03. Phishing Email Analysis
-
-Email investigation and phishing indicator identification.
-
-`Email Security` `Analysis`
-
-[View Repository →](https://github.com/farhanhussain02/task2-phishing-email-analysis)
-
-</td>
-<td width="50%" valign="top">
-
-### 04. Nessus Vulnerability Assessment
-
-Vulnerability scanning and security assessment.
-
-`Nessus` `Vulnerability Assessment`
-
-[View Repository →](https://github.com/farhanhussain02/task3-nessus-vulnerability-scan)
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
-### 05. Wireshark Network Analysis
-
-Packet inspection, protocol analysis and traffic investigation.
-
-`Wireshark` `Network Security`
-
-[View Repository →](https://github.com/farhanhussain02/task5-wireshark-analysis)
-
-</td>
-</tr>
-</table>
+<h3>Development & Technologies</h3>
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+</p>
 
 
 ### Cybersecurity Labs
