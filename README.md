@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# `root@ReconNinja7:~$`
+# `root@farhanhussain02:~$`
 
 ### Md Farhan Hussain | Cybersecurity Enthusiast
 
@@ -90,8 +90,6 @@ Hands-on security learning and practical exercises.
 
 <div align="center">
 
-### `Stay curious. Stay ethical. Stay secure.`
-
-**ReconNinja7 | Cybersecurity**
+**farhanhussain02 | Cybersecurity**
 
 </div>
