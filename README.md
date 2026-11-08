@@ -1,5 +1,5 @@
 <div align="center">
- <img src="Cybersecurity & Ethical Hacking Workspace.png" width="100%" />
+ <img src="Cybersecurity & Ethical Hacking Workspace.png" width="90%" />
 </div>
 
 <div align="center">
