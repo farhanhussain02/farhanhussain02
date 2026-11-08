@@ -135,14 +135,14 @@ Hands-on security learning and practical exercises.
 - Vulnerability assessment
 - Network traffic analysis
 
-## `Current Focus`
+## `Areas of Expertise`
 
-- Network Security
-- Vulnerability Assessment
-- Penetration Testing
-- Security Operations (SOC)
-- Python for Cybersecurity
-
+- Network Security & Reconnaissance
+- Vulnerability Assessment & Management
+- Network Traffic & Protocol Analysis
+- Phishing Detection & Email Security
+- Linux-Based Security Operations
+- Security Auditing & Risk Assessment
 ---
 
 <div align="center">
