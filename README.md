@@ -6,7 +6,7 @@
 
 ### Md Farhan Hussain | Cybersecurity Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;Aspiring+Security+Analyst;Learning+Ethical+Hacking;Exploring+Network+Security" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;Aspiring+Security+Analyst;+Ethical+Hacking;+Network+Security" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-farhanhussain02-181717?style=for-the-badge&logo=github)](https://github.com/farhanhussain02)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/farhanhussain02)
